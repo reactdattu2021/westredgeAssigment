@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Reset Password",
+        "content": "Users can reset their password by navigating to Settings > Security > Reset Password. Enter your registered email and follow the link sent to reset your credentials."
+    },
+    {
+        "title": "Refund Policy",
+        "content": "Refunds are allowed within 7 days of purchase. To request a refund, go to My Orders, select the order, and click 'Request Refund'. Refunds are processed within 5-7 business days."
+    },
+    {
+        "title": "Account Creation",
+        "content": "To create an account, click 'Sign Up' on the homepage. Provide your name, email, and password. Verify your email via the confirmation link sent to your inbox."
+    },
+    {
+        "title": "Subscription Plans",
+        "content": "We offer three plans: Basic (free), Pro ($9.99/month), and Enterprise ($49.99/month). Pro includes unlimited storage and priority support. Enterprise includes all Pro features plus dedicated account management."
+    },
+    {
+        "title": "Contact Support",
+        "content": "You can reach our support team via email at support@example.com or through live chat available 9 AM to 6 PM IST, Monday to Saturday."
+    },
+    {
+        "title": "Two-Factor Authentication",
+        "content": "2FA can be enabled from Settings > Security > Two-Factor Authentication. We support authenticator apps (Google Authenticator, Authy) and SMS-based OTP."
+    },
+    {
+        "title": "Cancel Subscription",
+        "content": "To cancel your subscription, go to Settings > Billing > Cancel Plan. Your access continues until the end of the current billing cycle. No partial refunds are issued."
+    },
+    {
+        "title": "Data Export",
+        "content": "Users can export all their data from Settings > Privacy > Export Data. A ZIP file containing your data will be emailed to your registered address within 24 hours."
+    },
+    {
+        "title": "Payment Methods",
+        "content": "We accept Visa, MasterCard, American Express, PayPal, and UPI (India). All payments are secured with SSL encryption and PCI-DSS compliance."
+    },
+    {
+        "title": "Forgot Username",
+        "content": "If you forgot your username, use the 'Forgot Username' link on the login page. Enter your registered email and your username will be sent to it."
+    }
+]
